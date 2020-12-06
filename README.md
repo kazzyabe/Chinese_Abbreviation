@@ -15,3 +15,7 @@
 ## USAGE
 $ python abbreviate.py -f words.txt
 * include words which you want to abbreviate in each line
+
+## RESULT
+* on train: 0.8021255537750966
+* on test: 0.7889239737673063
